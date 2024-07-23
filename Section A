@@ -1,0 +1,11 @@
+2
+Array is a data structure simply the way data is structure and arrange 
+
+Array methods
+
+Array.unshift() it add one or more element to data and return it
+Array.shift() it remove from the first element of the data
+Array.pop() it remove from the last element of the data2
+
+
+
